@@ -4,6 +4,8 @@ import React, { useState } from 'react';
 import { Shield, Activity, Map, Database, UserCheck, Heart } from 'lucide-react';
 import { ExecutiveDashboard } from '../components/dashboard/ExecutiveDashboard';
 import { AdminView } from '../components/admin/AdminView';
+import { MapIntelligence } from '../components/map/MapIntelligence';
+import { DataGrid } from '../components/datasources/DataGrid';
 
 export default function Home() {
   const [activeView, setActiveView] = useState<'dashboard' | 'map' | 'datasources' | 'admin'>('dashboard');
@@ -89,20 +91,8 @@ export default function Home() {
       <main className="max-w-7xl mx-auto px-6 py-8">
         {activeView === 'dashboard' && <ExecutiveDashboard />}
         {activeView === 'admin' && <AdminView />}
-        {activeView === 'map' && (
-          <div className="p-8 bg-slate-900 border border-slate-800 rounded-2xl text-center space-y-4">
-            <Map className="w-12 h-12 text-teal-400 mx-auto" />
-            <h3 className="text-lg font-bold text-white">Geospatial Map Intelligence Visualizer</h3>
-            <p className="text-sm text-slate-400 max-w-xl mx-auto">Interactive MapLibre GL map layer rendering 30,771 villages color-coded by vulnerability risk index across Davanagere & Bagalkote districts.</p>
-          </div>
-        )}
-        {activeView === 'datasources' && (
-          <div className="p-8 bg-slate-900 border border-slate-800 rounded-2xl text-center space-y-4">
-            <Database className="w-12 h-12 text-teal-400 mx-auto" />
-            <h3 className="text-lg font-bold text-white">11-Layer Domain Health Datasets</h3>
-            <p className="text-sm text-slate-400 max-w-xl mx-auto">Standardized LGD 2026 datasets covering demographics, PHC transit, ANC gaps, immunization, and monsoon flood hazard matrices.</p>
-          </div>
-        )}
+        {activeView === 'map' && <MapIntelligence />}
+        {activeView === 'datasources' && <DataGrid />}
       </main>
 
     </div>
