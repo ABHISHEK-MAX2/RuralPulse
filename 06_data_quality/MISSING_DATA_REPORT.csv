@@ -1,0 +1,5 @@
+dataset,field,missing_count,missing_pct,reason
+01_lgd_karnataka_administrative_master,gram_panchayat_code,0,0.0%,Complete LGD Master
+02_karnataka_village_demographics_infrastructure,internet_connectivity,0,0.0%,Census DCHB Complete
+09_karnataka_health_operational_resources,vaccine_stock,20,100.0%,NOT PUBLICLY AVAILABLE — REQUIRES AUTHORIZED GOVERNMENT SYSTEM ACCESS
+10_karnataka_mmu_operations,current_latitude,10,100.0%,NOT PUBLICLY AVAILABLE — REQUIRES AUTHORIZED OPERATIONAL SYSTEM ACCESS

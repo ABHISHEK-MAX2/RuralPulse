@@ -1,0 +1,8 @@
+dataset,field,data_type,description,allowed_values,provenance
+01_lgd_karnataka_administrative_master,village_code,INTEGER,Authoritative LGD 6-digit village code,500000-700000,REAL_SOURCE_DATA
+01_lgd_karnataka_administrative_master,district_code,INTEGER,Authoritative LGD 3-digit district code,524-738,REAL_SOURCE_DATA
+02_karnataka_village_demographics_infrastructure,population,INTEGER,Total village population (Census 2011),> 0,REAL_SOURCE_DATA
+03_karnataka_health_facility_master,facility_id,STRING,National Health Facility Registry unique code,"KA-PHC-*, KA-CHC-*",REAL_SOURCE_DATA
+05_karnataka_health_indicators,geographic_level,STRING,Survey geographic granularity,District,REAL_SOURCE_DATA
+08_karnataka_village_health_accessibility,distance_to_phc_km,FLOAT,Computed road distance to nearest PHC,0.1 - 50.0,DERIVED_DATA
+09_karnataka_health_operational_resources,vaccine_stock,STRING,Live vaccine stock in doses,NOT PUBLICLY AVAILABLE,NOT_PUBLICLY_AVAILABLE

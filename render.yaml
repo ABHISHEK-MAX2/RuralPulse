@@ -1,0 +1,51 @@
+services:
+  # --------------------------------------------------
+  # 1. FastAPI Backend Web Service
+  # --------------------------------------------------
+  - type: web
+    name: krhi-backend
+    env: python
+    rootDir: platform/backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: groq/compound
+      - key: WATSONX_APIKEY
+        sync: false
+      - key: WATSONX_PROJECT_ID
+        sync: false
+      - key: WATSONX_URL
+        value: https://us-south.ml.cloud.ibm.com
+      - key: WATSONX_MODEL_ID
+        value: ibm/granite-3-8b-instruct
+      - key: SECRET_KEY
+        generateValue: true
+      - key: JWT_ALGORITHM
+        value: HS256
+      - key: ENVIRONMENT
+        value: production
+      - key: DEMO_MODE
+        value: "true"
+      - key: CORS_ORIGINS
+        value: "*"
+
+  # --------------------------------------------------
+  # 2. Next.js Frontend Web Service
+  # --------------------------------------------------
+  - type: web
+    name: krhi-frontend
+    env: node
+    rootDir: platform/frontend
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NEXT_PUBLIC_API_BASE_URL
+        fromService:
+          type: web
+          name: krhi-backend
+          property: url
+        suffix: /api/v1

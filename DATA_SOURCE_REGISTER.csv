@@ -1,0 +1,9 @@
+source_id,organization,dataset_name,url,retrieval_date,scope
+SRC-01,Ministry of Panchayati Raj,Local Government Directory (LGD),https://lgdirectory.gov.in/,2026-07-02,State administrative hierarchy master
+SRC-02,Office of the Registrar General India,Census 2011 / DCHB Karnataka,https://censusindia.gov.in/,2024-01-15,Village-level demographics & infrastructure
+SRC-03,National Health Authority / MoHFW,National Health Facility Registry (NIN),https://facility.ndhm.gov.in/,2023-03-31,Public health facility master & staffing
+SRC-04,MoHFW Govt of India,Health Management Information System (HMIS),https://hmis.mohfw.gov.in/,2024-03-31,Monthly facility service utilization
+SRC-05,IIPS & MoHFW Govt of India,National Family Health Survey (NFHS-5),https://rchiips.org/nfhs/,2021-12-31,"District health, nutrition & mortality indicators"
+SRC-06,WCD Karnataka / Poshan Tracker,Poshan Abhiyaan AWC Registry,https://poshantracker.in/,2026-08-31,Child malnutrition screening & AWC facilities
+SRC-07,IMD / KSNDMC Karnataka,Telemetric Weather Station Network,https://ksndmc.karnataka.gov.in/,2026-09-12,Real-time rainfall & disaster warnings
+SRC-08,GIS Derived Module,Geospatial Distance Matrix Engine,DERIVED_DATA,2026-09-12,Spatial travel time and distance calculation

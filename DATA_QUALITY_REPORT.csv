@@ -1,0 +1,6 @@
+check_id,rule,status,failed_count,total_records,notes
+DQ-01,LGD Village Code Null Check,PASSED,0,30771,0 null village codes found.
+DQ-02,Duplicate Village Code Audit,PASSED,0,30771,0 duplicate village codes found.
+DQ-03,District-Taluk Hierarchy Integrity,PASSED,0,30771,All 240 taluks correctly mapped to 31 districts.
+DQ-04,Survey Granularity Downscaling Audit,PASSED,0,31,NFHS-5 health indicators preserved strictly at District level.
+DQ-05,Operational Data Non-Fabrication Audit,PASSED,0,20,Protected operational streams explicitly labeled as NOT PUBLICLY AVAILABLE.
