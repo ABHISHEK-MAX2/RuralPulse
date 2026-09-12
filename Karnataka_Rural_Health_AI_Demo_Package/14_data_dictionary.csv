@@ -1,0 +1,5 @@
+field,meaning,note
+village_id,Primary village key,DEMO ONLY until real LGD master is supplied
+facility_id,Facility key,DEMO ONLY
+overall_risk_score,AI risk feature/output,Synthetic demo; not a clinical prediction
+predicted_6_month_risk,Prediction output,Synthetic demo for pipeline testing

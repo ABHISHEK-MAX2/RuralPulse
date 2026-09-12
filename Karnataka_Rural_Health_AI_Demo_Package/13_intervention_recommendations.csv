@@ -1,0 +1,311 @@
+village_id,priority,overall_risk_score,predicted_6_month_risk,recommended_interventions
+DEMO-KA-01-001,MEDIUM,56.2,61.8,Repair/replace equipment; Child immunization/health camp
+DEMO-KA-01-002,MEDIUM,58.4,60.5,Increase essential medicine stock; Child immunization/health camp
+DEMO-KA-01-003,MEDIUM,56.1,59.2,Mobile medical outreach
+DEMO-KA-01-004,MEDIUM,53.2,66.9,Deploy/add medical staff; Nutrition intervention
+DEMO-KA-01-005,HIGH,68.3,76.5,Increase essential medicine stock; Maternal health outreach; Child immunization/health camp
+DEMO-KA-01-006,MEDIUM,50.6,52.0,Increase essential medicine stock; Child immunization/health camp; Nutrition intervention
+DEMO-KA-01-007,MEDIUM,59.2,58.2,Repair/replace equipment; Child immunization/health camp
+DEMO-KA-01-008,MEDIUM,48.4,51.5,Maternal health outreach; Child immunization/health camp
+DEMO-KA-01-009,MEDIUM,56.8,44.7,Increase essential medicine stock; Repair/replace equipment; Mobile medical outreach; Nutrition intervention
+DEMO-KA-01-010,MEDIUM,54.6,54.0,Increase essential medicine stock
+DEMO-KA-02-001,HIGH,63.3,65.6,Repair/replace equipment; Nutrition intervention
+DEMO-KA-02-002,MEDIUM,51.5,57.5,Increase essential medicine stock
+DEMO-KA-02-003,MEDIUM,59.8,58.9,Deploy/add medical staff; Repair/replace equipment; Maternal health outreach
+DEMO-KA-02-004,HIGH,62.9,67.4,Increase essential medicine stock; Child immunization/health camp; Nutrition intervention
+DEMO-KA-02-005,MEDIUM,52.0,58.2,Repair/replace equipment; Nutrition intervention
+DEMO-KA-02-006,MEDIUM,45.5,47.3,Child immunization/health camp
+DEMO-KA-02-007,MEDIUM,55.8,61.0,Deploy/add medical staff; Increase essential medicine stock
+DEMO-KA-02-008,MEDIUM,59.2,49.1,Increase essential medicine stock; Child immunization/health camp
+DEMO-KA-02-009,HIGH,60.2,62.1,Increase essential medicine stock; Mobile medical outreach; Nutrition intervention
+DEMO-KA-02-010,MEDIUM,57.9,64.7,Increase essential medicine stock
+DEMO-KA-03-001,HIGH,60.2,69.7,Child immunization/health camp
+DEMO-KA-03-002,MEDIUM,49.3,58.2,Maternal health outreach; Nutrition intervention
+DEMO-KA-03-003,HIGH,68.2,69.8,Increase essential medicine stock; Repair/replace equipment; Maternal health outreach; Nutrition intervention
+DEMO-KA-03-004,MEDIUM,57.6,65.8,Increase essential medicine stock; Child immunization/health camp
+DEMO-KA-03-005,HIGH,64.7,58.7,Deploy/add medical staff; Child immunization/health camp; Nutrition intervention
+DEMO-KA-03-006,MEDIUM,60.0,56.2,Increase essential medicine stock; Nutrition intervention
+DEMO-KA-03-007,MEDIUM,56.5,52.8,Deploy/add medical staff; Increase essential medicine stock
+DEMO-KA-03-008,MEDIUM,56.6,66.1,Maternal health outreach; Child immunization/health camp
+DEMO-KA-03-009,MEDIUM,54.4,68.4,Repair/replace equipment; Maternal health outreach
+DEMO-KA-03-010,MEDIUM,59.6,63.9,Deploy/add medical staff; Repair/replace equipment; Mobile medical outreach
+DEMO-KA-04-001,HIGH,60.5,62.9,Maternal health outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-04-002,MEDIUM,58.8,58.6,Increase essential medicine stock; Maternal health outreach
+DEMO-KA-04-003,HIGH,66.9,60.4,Deploy/add medical staff; Increase essential medicine stock; Maternal health outreach
+DEMO-KA-04-004,MEDIUM,55.1,59.7,Repair/replace equipment; Mobile medical outreach
+DEMO-KA-04-005,MEDIUM,38.0,46.3,Repair/replace equipment
+DEMO-KA-04-006,MEDIUM,53.3,64.1,Deploy/add medical staff; Maternal health outreach; Nutrition intervention
+DEMO-KA-04-007,MEDIUM,47.6,49.7,Maternal health outreach
+DEMO-KA-04-008,MEDIUM,60.0,65.9,Increase essential medicine stock; Repair/replace equipment; Mobile medical outreach; Maternal health outreach; Child immunization/health camp
+DEMO-KA-04-009,HIGH,72.9,87.8,Deploy/add medical staff; Repair/replace equipment; Mobile medical outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-04-010,HIGH,70.7,82.6,Deploy/add medical staff; Increase essential medicine stock; Mobile medical outreach; Maternal health outreach; Child immunization/health camp
+DEMO-KA-05-001,MEDIUM,50.9,55.8,Increase essential medicine stock; Child immunization/health camp
+DEMO-KA-05-002,HIGH,66.2,61.6,Deploy/add medical staff; Increase essential medicine stock; Mobile medical outreach; Child immunization/health camp
+DEMO-KA-05-003,MEDIUM,57.3,71.5,Maternal health outreach; Child immunization/health camp
+DEMO-KA-05-004,MEDIUM,55.9,58.7,Repair/replace equipment
+DEMO-KA-05-005,MEDIUM,51.6,47.9,Deploy/add medical staff; Repair/replace equipment; Child immunization/health camp
+DEMO-KA-05-006,MEDIUM,58.4,66.9,Deploy/add medical staff; Maternal health outreach; Nutrition intervention
+DEMO-KA-05-007,HIGH,67.0,63.5,Repair/replace equipment; Mobile medical outreach; Nutrition intervention
+DEMO-KA-05-008,MEDIUM,51.3,49.3,Repair/replace equipment; Mobile medical outreach
+DEMO-KA-05-009,HIGH,60.8,69.6,Increase essential medicine stock
+DEMO-KA-05-010,MEDIUM,46.9,50.1,Routine monitoring
+DEMO-KA-06-001,MEDIUM,55.8,58.7,Mobile medical outreach; Maternal health outreach
+DEMO-KA-06-002,MEDIUM,41.2,38.8,Maternal health outreach
+DEMO-KA-06-003,MEDIUM,58.6,64.4,Repair/replace equipment; Maternal health outreach; Nutrition intervention
+DEMO-KA-06-004,MEDIUM,54.5,62.9,Deploy/add medical staff; Increase essential medicine stock
+DEMO-KA-06-005,MEDIUM,59.2,72.1,Deploy/add medical staff; Increase essential medicine stock
+DEMO-KA-06-006,HIGH,61.5,60.1,Maternal health outreach; Child immunization/health camp
+DEMO-KA-06-007,HIGH,66.7,63.5,Increase essential medicine stock; Mobile medical outreach; Maternal health outreach; Child immunization/health camp
+DEMO-KA-06-008,HIGH,60.3,59.3,Deploy/add medical staff
+DEMO-KA-06-009,MEDIUM,45.4,43.2,Routine monitoring
+DEMO-KA-06-010,HIGH,67.9,66.8,Deploy/add medical staff; Repair/replace equipment; Maternal health outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-07-001,HIGH,61.7,66.5,Deploy/add medical staff; Repair/replace equipment; Child immunization/health camp; Nutrition intervention
+DEMO-KA-07-002,MEDIUM,54.1,52.6,Deploy/add medical staff; Repair/replace equipment; Child immunization/health camp
+DEMO-KA-07-003,MEDIUM,53.1,64.2,Mobile medical outreach; Maternal health outreach
+DEMO-KA-07-004,HIGH,64.7,66.7,Deploy/add medical staff; Increase essential medicine stock; Nutrition intervention
+DEMO-KA-07-005,MEDIUM,54.2,67.3,Deploy/add medical staff; Maternal health outreach
+DEMO-KA-07-006,MEDIUM,55.3,70.1,Mobile medical outreach
+DEMO-KA-07-007,HIGH,60.5,47.8,Mobile medical outreach; Nutrition intervention
+DEMO-KA-07-008,MEDIUM,50.7,60.3,Child immunization/health camp
+DEMO-KA-07-009,MEDIUM,58.7,69.1,Repair/replace equipment
+DEMO-KA-07-010,HIGH,60.6,66.5,Increase essential medicine stock; Repair/replace equipment; Maternal health outreach
+DEMO-KA-08-001,HIGH,66.4,74.4,Repair/replace equipment; Mobile medical outreach; Maternal health outreach; Child immunization/health camp
+DEMO-KA-08-002,HIGH,61.1,74.8,Deploy/add medical staff; Maternal health outreach
+DEMO-KA-08-003,MEDIUM,50.4,55.5,Increase essential medicine stock; Mobile medical outreach
+DEMO-KA-08-004,MEDIUM,49.1,52.3,Maternal health outreach
+DEMO-KA-08-005,MEDIUM,57.4,62.4,Mobile medical outreach; Nutrition intervention
+DEMO-KA-08-006,MEDIUM,56.4,59.0,Increase essential medicine stock; Repair/replace equipment; Maternal health outreach
+DEMO-KA-08-007,HIGH,68.7,77.4,Deploy/add medical staff; Repair/replace equipment; Maternal health outreach; Nutrition intervention
+DEMO-KA-08-008,MEDIUM,46.1,60.6,Maternal health outreach; Nutrition intervention
+DEMO-KA-08-009,MEDIUM,57.0,64.6,Repair/replace equipment; Maternal health outreach; Child immunization/health camp
+DEMO-KA-08-010,MEDIUM,57.4,41.3,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment
+DEMO-KA-09-001,MEDIUM,57.2,62.3,Repair/replace equipment
+DEMO-KA-09-002,HIGH,67.6,73.9,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment; Child immunization/health camp
+DEMO-KA-09-003,MEDIUM,55.9,61.1,Increase essential medicine stock
+DEMO-KA-09-004,MEDIUM,57.8,55.6,Deploy/add medical staff; Increase essential medicine stock; Child immunization/health camp; Nutrition intervention
+DEMO-KA-09-005,HIGH,65.3,61.3,Deploy/add medical staff; Increase essential medicine stock; Child immunization/health camp; Nutrition intervention
+DEMO-KA-09-006,HIGH,60.6,69.5,Deploy/add medical staff; Child immunization/health camp
+DEMO-KA-09-007,MEDIUM,49.7,56.9,Nutrition intervention
+DEMO-KA-09-008,MEDIUM,58.7,63.5,Mobile medical outreach; Child immunization/health camp
+DEMO-KA-09-009,MEDIUM,49.9,49.6,Mobile medical outreach; Maternal health outreach
+DEMO-KA-09-010,MEDIUM,58.1,67.1,Deploy/add medical staff; Maternal health outreach
+DEMO-KA-10-001,MEDIUM,52.2,49.1,Increase essential medicine stock; Repair/replace equipment; Child immunization/health camp
+DEMO-KA-10-002,HIGH,70.4,61.2,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment; Mobile medical outreach; Nutrition intervention
+DEMO-KA-10-003,MEDIUM,58.8,58.4,Increase essential medicine stock; Nutrition intervention
+DEMO-KA-10-004,HIGH,61.9,67.3,Deploy/add medical staff; Maternal health outreach; Nutrition intervention
+DEMO-KA-10-005,HIGH,64.7,78.6,Deploy/add medical staff; Repair/replace equipment; Child immunization/health camp
+DEMO-KA-10-006,HIGH,61.5,73.5,Mobile medical outreach; Maternal health outreach; Child immunization/health camp
+DEMO-KA-10-007,HIGH,61.8,63.5,Deploy/add medical staff; Repair/replace equipment
+DEMO-KA-10-008,HIGH,66.0,70.4,Repair/replace equipment; Mobile medical outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-10-009,HIGH,61.4,67.7,Repair/replace equipment; Child immunization/health camp
+DEMO-KA-10-010,MEDIUM,54.4,41.5,Repair/replace equipment; Nutrition intervention
+DEMO-KA-11-001,MEDIUM,52.5,53.2,Deploy/add medical staff; Mobile medical outreach
+DEMO-KA-11-002,MEDIUM,44.9,53.5,Routine monitoring
+DEMO-KA-11-003,HIGH,62.5,65.1,Deploy/add medical staff; Nutrition intervention
+DEMO-KA-11-004,MEDIUM,49.6,56.6,Routine monitoring
+DEMO-KA-11-005,HIGH,76.7,94.9,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment; Mobile medical outreach; Child immunization/health camp
+DEMO-KA-11-006,MEDIUM,56.8,76.7,Repair/replace equipment; Nutrition intervention
+DEMO-KA-11-007,MEDIUM,57.6,50.9,Deploy/add medical staff; Increase essential medicine stock; Mobile medical outreach
+DEMO-KA-11-008,HIGH,65.5,67.8,Deploy/add medical staff; Repair/replace equipment
+DEMO-KA-11-009,HIGH,63.2,61.0,Deploy/add medical staff; Mobile medical outreach; Maternal health outreach; Nutrition intervention
+DEMO-KA-11-010,MEDIUM,55.1,67.9,Increase essential medicine stock; Repair/replace equipment; Maternal health outreach
+DEMO-KA-12-001,MEDIUM,57.3,55.3,Increase essential medicine stock; Mobile medical outreach
+DEMO-KA-12-002,HIGH,60.3,61.4,Deploy/add medical staff; Increase essential medicine stock; Mobile medical outreach
+DEMO-KA-12-003,HIGH,61.8,73.1,Mobile medical outreach; Maternal health outreach; Nutrition intervention
+DEMO-KA-12-004,HIGH,64.2,71.7,Increase essential medicine stock; Mobile medical outreach; Child immunization/health camp
+DEMO-KA-12-005,MEDIUM,56.3,65.9,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment; Maternal health outreach
+DEMO-KA-12-006,HIGH,64.6,80.2,Deploy/add medical staff; Repair/replace equipment
+DEMO-KA-12-007,HIGH,66.5,69.3,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment; Child immunization/health camp
+DEMO-KA-12-008,MEDIUM,59.7,67.9,Repair/replace equipment; Nutrition intervention
+DEMO-KA-12-009,MEDIUM,56.0,57.5,Routine monitoring
+DEMO-KA-12-010,MEDIUM,55.5,45.4,Deploy/add medical staff; Mobile medical outreach; Maternal health outreach; Child immunization/health camp
+DEMO-KA-13-001,MEDIUM,56.7,62.1,Mobile medical outreach; Maternal health outreach
+DEMO-KA-13-002,MEDIUM,50.3,60.1,Deploy/add medical staff; Increase essential medicine stock; Maternal health outreach
+DEMO-KA-13-003,HIGH,61.8,73.9,Repair/replace equipment; Mobile medical outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-13-004,MEDIUM,42.9,44.2,Deploy/add medical staff
+DEMO-KA-13-005,HIGH,66.0,71.6,Repair/replace equipment; Mobile medical outreach; Maternal health outreach; Child immunization/health camp
+DEMO-KA-13-006,HIGH,67.3,73.2,Deploy/add medical staff; Increase essential medicine stock; Mobile medical outreach; Maternal health outreach
+DEMO-KA-13-007,MEDIUM,47.5,37.2,Routine monitoring
+DEMO-KA-13-008,HIGH,66.3,69.4,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment
+DEMO-KA-13-009,MEDIUM,57.6,62.8,Deploy/add medical staff; Repair/replace equipment
+DEMO-KA-13-010,MEDIUM,59.1,59.6,Deploy/add medical staff; Increase essential medicine stock; Mobile medical outreach; Maternal health outreach
+DEMO-KA-14-001,MEDIUM,51.3,50.2,Repair/replace equipment
+DEMO-KA-14-002,MEDIUM,51.8,42.9,Routine monitoring
+DEMO-KA-14-003,MEDIUM,55.7,58.5,Repair/replace equipment; Mobile medical outreach
+DEMO-KA-14-004,HIGH,66.9,64.5,Increase essential medicine stock; Mobile medical outreach; Maternal health outreach; Nutrition intervention
+DEMO-KA-14-005,HIGH,63.9,65.0,Increase essential medicine stock
+DEMO-KA-14-006,HIGH,60.7,50.8,Repair/replace equipment; Nutrition intervention
+DEMO-KA-14-007,HIGH,66.2,62.7,Deploy/add medical staff; Maternal health outreach; Nutrition intervention
+DEMO-KA-14-008,HIGH,61.0,71.9,Increase essential medicine stock; Repair/replace equipment
+DEMO-KA-14-009,MEDIUM,57.6,69.8,Repair/replace equipment; Mobile medical outreach; Nutrition intervention
+DEMO-KA-14-010,MEDIUM,59.8,72.7,Increase essential medicine stock
+DEMO-KA-15-001,HIGH,61.6,78.7,Maternal health outreach; Nutrition intervention
+DEMO-KA-15-002,MEDIUM,58.6,74.7,Mobile medical outreach; Maternal health outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-15-003,MEDIUM,52.4,54.7,Deploy/add medical staff; Child immunization/health camp
+DEMO-KA-15-004,MEDIUM,58.6,58.9,Deploy/add medical staff; Repair/replace equipment; Maternal health outreach
+DEMO-KA-15-005,HIGH,60.8,56.4,Deploy/add medical staff; Child immunization/health camp
+DEMO-KA-15-006,MEDIUM,56.9,67.1,Increase essential medicine stock; Nutrition intervention
+DEMO-KA-15-007,HIGH,61.5,57.9,Deploy/add medical staff; Maternal health outreach; Child immunization/health camp
+DEMO-KA-15-008,HIGH,62.2,73.5,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment; Nutrition intervention
+DEMO-KA-15-009,MEDIUM,45.3,51.3,Mobile medical outreach
+DEMO-KA-15-010,HIGH,68.3,67.7,Deploy/add medical staff; Repair/replace equipment; Mobile medical outreach; Child immunization/health camp
+DEMO-KA-16-001,HIGH,69.3,78.0,Deploy/add medical staff; Repair/replace equipment; Mobile medical outreach; Maternal health outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-16-002,MEDIUM,49.9,62.6,Mobile medical outreach; Child immunization/health camp
+DEMO-KA-16-003,HIGH,67.2,58.4,Increase essential medicine stock; Mobile medical outreach; Maternal health outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-16-004,MEDIUM,56.4,65.4,Repair/replace equipment; Maternal health outreach
+DEMO-KA-16-005,MEDIUM,59.0,62.0,Repair/replace equipment; Mobile medical outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-16-006,HIGH,73.3,75.7,Deploy/add medical staff; Increase essential medicine stock; Maternal health outreach; Child immunization/health camp
+DEMO-KA-16-007,HIGH,67.8,64.3,Increase essential medicine stock; Repair/replace equipment; Maternal health outreach; Nutrition intervention
+DEMO-KA-16-008,MEDIUM,60.0,65.6,Deploy/add medical staff
+DEMO-KA-16-009,HIGH,67.2,66.3,Repair/replace equipment; Maternal health outreach; Nutrition intervention
+DEMO-KA-16-010,MEDIUM,49.5,40.1,Deploy/add medical staff
+DEMO-KA-17-001,HIGH,60.6,71.7,Deploy/add medical staff; Repair/replace equipment; Mobile medical outreach; Child immunization/health camp
+DEMO-KA-17-002,MEDIUM,51.5,56.2,Repair/replace equipment; Mobile medical outreach
+DEMO-KA-17-003,MEDIUM,48.4,62.1,Repair/replace equipment; Maternal health outreach
+DEMO-KA-17-004,HIGH,62.3,63.1,Mobile medical outreach; Maternal health outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-17-005,HIGH,60.6,74.7,Deploy/add medical staff; Mobile medical outreach; Maternal health outreach; Nutrition intervention
+DEMO-KA-17-006,MEDIUM,50.3,54.8,Maternal health outreach; Nutrition intervention
+DEMO-KA-17-007,MEDIUM,50.9,52.5,Mobile medical outreach
+DEMO-KA-17-008,HIGH,62.2,69.4,Mobile medical outreach; Maternal health outreach; Child immunization/health camp
+DEMO-KA-17-009,MEDIUM,50.6,50.5,Repair/replace equipment
+DEMO-KA-17-010,MEDIUM,58.4,54.1,Routine monitoring
+DEMO-KA-18-001,MEDIUM,53.5,61.2,Mobile medical outreach
+DEMO-KA-18-002,MEDIUM,48.8,56.2,Maternal health outreach
+DEMO-KA-18-003,HIGH,70.9,77.5,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment; Child immunization/health camp; Nutrition intervention
+DEMO-KA-18-004,MEDIUM,58.2,66.4,Increase essential medicine stock; Nutrition intervention
+DEMO-KA-18-005,MEDIUM,54.0,47.9,Maternal health outreach
+DEMO-KA-18-006,MEDIUM,57.3,63.0,Deploy/add medical staff; Increase essential medicine stock; Maternal health outreach
+DEMO-KA-18-007,MEDIUM,58.9,67.6,Deploy/add medical staff; Maternal health outreach
+DEMO-KA-18-008,MEDIUM,59.0,67.5,Repair/replace equipment; Nutrition intervention
+DEMO-KA-18-009,MEDIUM,57.8,61.5,Deploy/add medical staff; Mobile medical outreach; Maternal health outreach; Nutrition intervention
+DEMO-KA-18-010,HIGH,65.7,75.9,Repair/replace equipment; Maternal health outreach
+DEMO-KA-19-001,MEDIUM,51.8,48.0,Increase essential medicine stock; Repair/replace equipment; Nutrition intervention
+DEMO-KA-19-002,HIGH,60.9,66.6,Increase essential medicine stock; Maternal health outreach; Nutrition intervention
+DEMO-KA-19-003,MEDIUM,51.5,62.4,Repair/replace equipment
+DEMO-KA-19-004,MEDIUM,58.5,64.5,Nutrition intervention
+DEMO-KA-19-005,MEDIUM,54.9,63.8,Deploy/add medical staff
+DEMO-KA-19-006,HIGH,72.5,73.4,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment; Maternal health outreach
+DEMO-KA-19-007,HIGH,68.1,73.7,Deploy/add medical staff; Increase essential medicine stock; Child immunization/health camp; Nutrition intervention
+DEMO-KA-19-008,HIGH,76.0,85.5,Deploy/add medical staff; Increase essential medicine stock; Mobile medical outreach; Maternal health outreach
+DEMO-KA-19-009,MEDIUM,56.6,64.4,Deploy/add medical staff; Mobile medical outreach; Child immunization/health camp
+DEMO-KA-19-010,MEDIUM,55.2,49.5,Maternal health outreach
+DEMO-KA-20-001,MEDIUM,42.8,42.4,Routine monitoring
+DEMO-KA-20-002,MEDIUM,53.1,40.9,Deploy/add medical staff
+DEMO-KA-20-003,MEDIUM,57.2,57.5,Deploy/add medical staff; Repair/replace equipment; Child immunization/health camp
+DEMO-KA-20-004,MEDIUM,57.9,53.0,Deploy/add medical staff; Repair/replace equipment
+DEMO-KA-20-005,HIGH,62.6,55.4,Repair/replace equipment; Mobile medical outreach; Nutrition intervention
+DEMO-KA-20-006,MEDIUM,58.4,46.5,Maternal health outreach
+DEMO-KA-20-007,HIGH,62.0,64.2,Mobile medical outreach; Maternal health outreach; Child immunization/health camp
+DEMO-KA-20-008,HIGH,60.1,73.5,Mobile medical outreach; Maternal health outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-20-009,MEDIUM,54.5,41.5,Increase essential medicine stock; Repair/replace equipment
+DEMO-KA-20-010,MEDIUM,52.7,66.2,Increase essential medicine stock; Repair/replace equipment; Mobile medical outreach
+DEMO-KA-21-001,HIGH,65.9,80.7,Deploy/add medical staff; Repair/replace equipment; Mobile medical outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-21-002,HIGH,61.1,50.5,Deploy/add medical staff; Increase essential medicine stock; Maternal health outreach
+DEMO-KA-21-003,HIGH,69.2,73.8,Increase essential medicine stock; Mobile medical outreach; Maternal health outreach; Child immunization/health camp
+DEMO-KA-21-004,MEDIUM,50.4,58.0,Increase essential medicine stock; Nutrition intervention
+DEMO-KA-21-005,MEDIUM,58.8,57.5,Deploy/add medical staff; Mobile medical outreach; Maternal health outreach
+DEMO-KA-21-006,MEDIUM,54.8,66.9,Mobile medical outreach; Nutrition intervention
+DEMO-KA-21-007,MEDIUM,47.7,47.0,Increase essential medicine stock
+DEMO-KA-21-008,MEDIUM,48.1,48.5,Deploy/add medical staff
+DEMO-KA-21-009,HIGH,62.5,68.9,Deploy/add medical staff; Increase essential medicine stock; Child immunization/health camp; Nutrition intervention
+DEMO-KA-21-010,HIGH,70.0,74.1,Increase essential medicine stock; Repair/replace equipment; Mobile medical outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-22-001,MEDIUM,59.3,68.0,Repair/replace equipment; Maternal health outreach
+DEMO-KA-22-002,HIGH,64.0,58.2,Deploy/add medical staff; Repair/replace equipment; Child immunization/health camp
+DEMO-KA-22-003,MEDIUM,58.2,67.5,Deploy/add medical staff; Mobile medical outreach; Nutrition intervention
+DEMO-KA-22-004,MEDIUM,49.4,68.1,Routine monitoring
+DEMO-KA-22-005,HIGH,67.4,95.4,Mobile medical outreach; Maternal health outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-22-006,MEDIUM,57.7,59.8,Repair/replace equipment
+DEMO-KA-22-007,MEDIUM,52.3,63.9,Mobile medical outreach; Maternal health outreach
+DEMO-KA-22-008,MEDIUM,57.7,63.3,Increase essential medicine stock; Repair/replace equipment; Nutrition intervention
+DEMO-KA-22-009,HIGH,63.8,53.8,Deploy/add medical staff
+DEMO-KA-22-010,HIGH,74.7,82.8,Deploy/add medical staff; Repair/replace equipment; Mobile medical outreach; Maternal health outreach
+DEMO-KA-23-001,MEDIUM,51.1,52.8,Repair/replace equipment
+DEMO-KA-23-002,MEDIUM,58.4,63.4,Deploy/add medical staff; Child immunization/health camp
+DEMO-KA-23-003,MEDIUM,59.9,65.9,Repair/replace equipment; Mobile medical outreach
+DEMO-KA-23-004,HIGH,68.0,69.5,Deploy/add medical staff; Increase essential medicine stock; Maternal health outreach; Child immunization/health camp
+DEMO-KA-23-005,MEDIUM,53.6,61.5,Increase essential medicine stock; Mobile medical outreach; Nutrition intervention
+DEMO-KA-23-006,MEDIUM,49.7,47.8,Deploy/add medical staff; Nutrition intervention
+DEMO-KA-23-007,HIGH,66.7,62.0,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment; Maternal health outreach; Nutrition intervention
+DEMO-KA-23-008,MEDIUM,59.7,58.2,Maternal health outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-23-009,HIGH,60.1,62.2,Deploy/add medical staff; Increase essential medicine stock; Mobile medical outreach; Maternal health outreach
+DEMO-KA-23-010,HIGH,70.1,74.6,Repair/replace equipment; Mobile medical outreach
+DEMO-KA-24-001,MEDIUM,56.4,57.2,Child immunization/health camp; Nutrition intervention
+DEMO-KA-24-002,MEDIUM,56.7,54.6,Child immunization/health camp; Nutrition intervention
+DEMO-KA-24-003,HIGH,61.3,76.1,Deploy/add medical staff; Mobile medical outreach; Child immunization/health camp
+DEMO-KA-24-004,MEDIUM,50.3,50.9,Child immunization/health camp
+DEMO-KA-24-005,MEDIUM,54.4,59.3,Deploy/add medical staff
+DEMO-KA-24-006,MEDIUM,56.6,59.8,Child immunization/health camp
+DEMO-KA-24-007,MEDIUM,59.5,75.2,Repair/replace equipment; Mobile medical outreach; Maternal health outreach
+DEMO-KA-24-008,MEDIUM,50.3,54.7,Routine monitoring
+DEMO-KA-24-009,MEDIUM,56.0,50.7,Maternal health outreach
+DEMO-KA-24-010,MEDIUM,48.9,58.1,Routine monitoring
+DEMO-KA-25-001,MEDIUM,44.9,47.9,Nutrition intervention
+DEMO-KA-25-002,HIGH,61.3,67.2,Maternal health outreach
+DEMO-KA-25-003,HIGH,71.0,83.8,Deploy/add medical staff; Repair/replace equipment; Mobile medical outreach; Maternal health outreach
+DEMO-KA-25-004,HIGH,64.4,68.8,Deploy/add medical staff; Repair/replace equipment
+DEMO-KA-25-005,HIGH,61.0,68.0,Maternal health outreach
+DEMO-KA-25-006,MEDIUM,59.5,63.6,Increase essential medicine stock
+DEMO-KA-25-007,MEDIUM,41.7,48.3,Repair/replace equipment
+DEMO-KA-25-008,MEDIUM,58.0,54.8,Child immunization/health camp
+DEMO-KA-25-009,HIGH,68.7,82.3,Deploy/add medical staff; Increase essential medicine stock; Mobile medical outreach; Maternal health outreach
+DEMO-KA-25-010,MEDIUM,52.1,54.0,Mobile medical outreach; Child immunization/health camp
+DEMO-KA-26-001,HIGH,62.4,80.1,Increase essential medicine stock; Mobile medical outreach; Maternal health outreach; Nutrition intervention
+DEMO-KA-26-002,HIGH,71.5,75.0,Repair/replace equipment; Mobile medical outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-26-003,MEDIUM,51.0,52.9,Routine monitoring
+DEMO-KA-26-004,MEDIUM,56.6,52.5,Deploy/add medical staff; Repair/replace equipment; Maternal health outreach
+DEMO-KA-26-005,MEDIUM,55.6,52.8,Mobile medical outreach; Child immunization/health camp
+DEMO-KA-26-006,HIGH,75.0,75.8,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment; Mobile medical outreach; Maternal health outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-26-007,MEDIUM,45.5,49.5,Routine monitoring
+DEMO-KA-26-008,MEDIUM,57.5,59.6,Child immunization/health camp
+DEMO-KA-26-009,MEDIUM,55.8,62.3,Deploy/add medical staff; Nutrition intervention
+DEMO-KA-26-010,MEDIUM,50.0,58.0,Repair/replace equipment; Mobile medical outreach; Child immunization/health camp
+DEMO-KA-27-001,HIGH,69.4,81.8,Deploy/add medical staff; Increase essential medicine stock; Repair/replace equipment; Maternal health outreach; Nutrition intervention
+DEMO-KA-27-002,MEDIUM,49.2,64.4,Deploy/add medical staff; Maternal health outreach
+DEMO-KA-27-003,HIGH,61.9,61.4,Increase essential medicine stock; Repair/replace equipment; Mobile medical outreach
+DEMO-KA-27-004,MEDIUM,47.2,48.8,Repair/replace equipment
+DEMO-KA-27-005,HIGH,61.6,71.3,Increase essential medicine stock; Repair/replace equipment; Maternal health outreach
+DEMO-KA-27-006,MEDIUM,58.4,66.3,Repair/replace equipment; Nutrition intervention
+DEMO-KA-27-007,MEDIUM,52.4,50.1,Routine monitoring
+DEMO-KA-27-008,HIGH,65.2,75.6,Deploy/add medical staff; Increase essential medicine stock; Maternal health outreach; Nutrition intervention
+DEMO-KA-27-009,MEDIUM,49.4,60.4,Increase essential medicine stock
+DEMO-KA-27-010,MEDIUM,48.8,57.2,Deploy/add medical staff; Maternal health outreach; Nutrition intervention
+DEMO-KA-28-001,HIGH,66.4,61.3,Increase essential medicine stock; Repair/replace equipment; Child immunization/health camp; Nutrition intervention
+DEMO-KA-28-002,HIGH,70.1,84.1,Deploy/add medical staff; Maternal health outreach; Nutrition intervention
+DEMO-KA-28-003,MEDIUM,51.3,46.0,Repair/replace equipment; Maternal health outreach
+DEMO-KA-28-004,MEDIUM,42.4,52.9,Routine monitoring
+DEMO-KA-28-005,HIGH,63.8,67.4,Deploy/add medical staff; Child immunization/health camp; Nutrition intervention
+DEMO-KA-28-006,MEDIUM,52.6,56.4,Deploy/add medical staff; Maternal health outreach; Nutrition intervention
+DEMO-KA-28-007,HIGH,60.1,57.2,Mobile medical outreach
+DEMO-KA-28-008,HIGH,60.6,63.5,Increase essential medicine stock; Mobile medical outreach; Maternal health outreach; Nutrition intervention
+DEMO-KA-28-009,MEDIUM,55.5,58.6,Deploy/add medical staff; Repair/replace equipment; Mobile medical outreach; Maternal health outreach
+DEMO-KA-28-010,MEDIUM,51.8,48.7,Deploy/add medical staff; Increase essential medicine stock
+DEMO-KA-29-001,HIGH,60.6,64.9,Mobile medical outreach; Maternal health outreach; Nutrition intervention
+DEMO-KA-29-002,HIGH,66.8,79.0,Deploy/add medical staff; Repair/replace equipment; Maternal health outreach; Child immunization/health camp
+DEMO-KA-29-003,MEDIUM,49.5,43.0,Repair/replace equipment
+DEMO-KA-29-004,HIGH,64.8,71.2,Deploy/add medical staff; Increase essential medicine stock; Mobile medical outreach; Nutrition intervention
+DEMO-KA-29-005,HIGH,64.4,70.1,Repair/replace equipment; Child immunization/health camp; Nutrition intervention
+DEMO-KA-29-006,HIGH,64.1,81.3,Deploy/add medical staff; Increase essential medicine stock; Nutrition intervention
+DEMO-KA-29-007,MEDIUM,58.0,79.2,Increase essential medicine stock; Mobile medical outreach; Nutrition intervention
+DEMO-KA-29-008,MEDIUM,55.0,52.6,Deploy/add medical staff; Child immunization/health camp
+DEMO-KA-29-009,MEDIUM,44.9,49.0,Deploy/add medical staff
+DEMO-KA-29-010,MEDIUM,51.0,64.9,Mobile medical outreach; Maternal health outreach; Nutrition intervention
+DEMO-KA-30-001,MEDIUM,46.6,50.7,Mobile medical outreach
+DEMO-KA-30-002,MEDIUM,57.4,65.2,Repair/replace equipment; Mobile medical outreach; Nutrition intervention
+DEMO-KA-30-003,HIGH,70.3,80.5,Deploy/add medical staff; Repair/replace equipment; Mobile medical outreach; Nutrition intervention
+DEMO-KA-30-004,HIGH,61.6,58.1,Repair/replace equipment
+DEMO-KA-30-005,MEDIUM,46.8,59.0,Maternal health outreach
+DEMO-KA-30-006,MEDIUM,45.5,59.9,Repair/replace equipment; Maternal health outreach
+DEMO-KA-30-007,MEDIUM,56.1,68.6,Increase essential medicine stock; Repair/replace equipment; Nutrition intervention
+DEMO-KA-30-008,MEDIUM,49.5,53.6,Routine monitoring
+DEMO-KA-30-009,MEDIUM,42.7,46.8,Maternal health outreach
+DEMO-KA-30-010,MEDIUM,43.3,40.8,Mobile medical outreach
+DEMO-KA-31-001,HIGH,64.3,71.2,Increase essential medicine stock; Repair/replace equipment; Mobile medical outreach; Nutrition intervention
+DEMO-KA-31-002,MEDIUM,57.9,55.7,Repair/replace equipment; Child immunization/health camp
+DEMO-KA-31-003,MEDIUM,58.7,64.5,Deploy/add medical staff; Repair/replace equipment
+DEMO-KA-31-004,HIGH,68.2,80.9,Increase essential medicine stock; Mobile medical outreach; Maternal health outreach
+DEMO-KA-31-005,HIGH,66.8,65.1,Increase essential medicine stock; Maternal health outreach; Child immunization/health camp; Nutrition intervention
+DEMO-KA-31-006,HIGH,61.4,70.3,Increase essential medicine stock; Mobile medical outreach; Maternal health outreach; Nutrition intervention
+DEMO-KA-31-007,MEDIUM,59.2,58.1,Repair/replace equipment; Mobile medical outreach; Maternal health outreach; Nutrition intervention
+DEMO-KA-31-008,MEDIUM,58.0,57.6,Deploy/add medical staff; Maternal health outreach; Child immunization/health camp
+DEMO-KA-31-009,MEDIUM,54.0,50.0,Repair/replace equipment
+DEMO-KA-31-010,HIGH,65.2,70.2,Nutrition intervention

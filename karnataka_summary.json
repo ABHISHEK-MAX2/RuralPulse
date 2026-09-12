@@ -1,0 +1,198 @@
+{
+  "total_records_all_india": 676891,
+  "total_states": 35,
+  "karnataka": {
+    "state_code": 29,
+    "total_districts": 31,
+    "total_subdistricts": 240,
+    "total_villages": 30771,
+    "district_breakdown": [
+      {
+        "district_code": 524,
+        "district_name": "Bagalkote",
+        "sub_districts": 10,
+        "villages": 627
+      },
+      {
+        "district_code": 528,
+        "district_name": "Ballari",
+        "sub_districts": 5,
+        "villages": 308
+      },
+      {
+        "district_code": 527,
+        "district_name": "Belagavi",
+        "sub_districts": 15,
+        "villages": 1342
+      },
+      {
+        "district_code": 526,
+        "district_name": "Bengaluru Rural",
+        "sub_districts": 4,
+        "villages": 1104
+      },
+      {
+        "district_code": 631,
+        "district_name": "Bengaluru South",
+        "sub_districts": 5,
+        "villages": 833
+      },
+      {
+        "district_code": 525,
+        "district_name": "Bengaluru Urban",
+        "sub_districts": 5,
+        "villages": 960
+      },
+      {
+        "district_code": 529,
+        "district_name": "Bidar",
+        "sub_districts": 8,
+        "villages": 642
+      },
+      {
+        "district_code": 531,
+        "district_name": "Chamarajanagar",
+        "sub_districts": 5,
+        "villages": 484
+      },
+      {
+        "district_code": 630,
+        "district_name": "Chikkaballapura",
+        "sub_districts": 8,
+        "villages": 1558
+      },
+      {
+        "district_code": 532,
+        "district_name": "Chikkamagaluru",
+        "sub_districts": 9,
+        "villages": 1149
+      },
+      {
+        "district_code": 533,
+        "district_name": "Chitradurga",
+        "sub_districts": 6,
+        "villages": 1120
+      },
+      {
+        "district_code": 534,
+        "district_name": "Dakshina Kannada",
+        "sub_districts": 9,
+        "villages": 422
+      },
+      {
+        "district_code": 535,
+        "district_name": "Davanagere",
+        "sub_districts": 6,
+        "villages": 873
+      },
+      {
+        "district_code": 536,
+        "district_name": "Dharwad",
+        "sub_districts": 8,
+        "villages": 421
+      },
+      {
+        "district_code": 537,
+        "district_name": "Gadag",
+        "sub_districts": 7,
+        "villages": 343
+      },
+      {
+        "district_code": 539,
+        "district_name": "Hassan",
+        "sub_districts": 8,
+        "villages": 2602
+      },
+      {
+        "district_code": 540,
+        "district_name": "Haveri",
+        "sub_districts": 8,
+        "villages": 707
+      },
+      {
+        "district_code": 538,
+        "district_name": "Kalaburagi",
+        "sub_districts": 11,
+        "villages": 938
+      },
+      {
+        "district_code": 541,
+        "district_name": "Kodagu",
+        "sub_districts": 5,
+        "villages": 522
+      },
+      {
+        "district_code": 542,
+        "district_name": "Kolar",
+        "sub_districts": 6,
+        "villages": 1825
+      },
+      {
+        "district_code": 543,
+        "district_name": "Koppal",
+        "sub_districts": 7,
+        "villages": 634
+      },
+      {
+        "district_code": 544,
+        "district_name": "Mandya",
+        "sub_districts": 7,
+        "villages": 1493
+      },
+      {
+        "district_code": 545,
+        "district_name": "Mysuru",
+        "sub_districts": 9,
+        "villages": 1384
+      },
+      {
+        "district_code": 546,
+        "district_name": "Raichur",
+        "sub_districts": 8,
+        "villages": 887
+      },
+      {
+        "district_code": 547,
+        "district_name": "Shivamogga",
+        "sub_districts": 7,
+        "villages": 1633
+      },
+      {
+        "district_code": 548,
+        "district_name": "Tumakuru",
+        "sub_districts": 10,
+        "villages": 2744
+      },
+      {
+        "district_code": 549,
+        "district_name": "Udupi",
+        "sub_districts": 7,
+        "villages": 267
+      },
+      {
+        "district_code": 550,
+        "district_name": "Uttara Kannada",
+        "sub_districts": 12,
+        "villages": 1363
+      },
+      {
+        "district_code": 738,
+        "district_name": "Vijayanagara",
+        "sub_districts": 6,
+        "villages": 362
+      },
+      {
+        "district_code": 530,
+        "district_name": "Vijayapura",
+        "sub_districts": 13,
+        "villages": 697
+      },
+      {
+        "district_code": 635,
+        "district_name": "Yadgir",
+        "sub_districts": 6,
+        "villages": 527
+      }
+    ]
+  }
+}

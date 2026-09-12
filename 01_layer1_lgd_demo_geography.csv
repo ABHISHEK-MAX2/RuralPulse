@@ -1,0 +1,751 @@
+Village_Code,District_Code,Taluk_Code,District,Taluk,Village
+DEMO-KA-0001,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0001
+DEMO-KA-0002,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0002
+DEMO-KA-0003,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0003
+DEMO-KA-0004,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0004
+DEMO-KA-0005,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0005
+DEMO-KA-0006,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0006
+DEMO-KA-0007,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0007
+DEMO-KA-0008,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0008
+DEMO-KA-0009,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0009
+DEMO-KA-0010,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0010
+DEMO-KA-0011,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0011
+DEMO-KA-0012,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0012
+DEMO-KA-0013,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0013
+DEMO-KA-0014,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0014
+DEMO-KA-0015,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0015
+DEMO-KA-0016,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0016
+DEMO-KA-0017,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0017
+DEMO-KA-0018,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0018
+DEMO-KA-0019,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0019
+DEMO-KA-0020,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0020
+DEMO-KA-0021,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0021
+DEMO-KA-0022,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0022
+DEMO-KA-0023,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0023
+DEMO-KA-0024,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0024
+DEMO-KA-0025,DEMO-D-01,DEMO-T-01-01,Belagavi,Gokak,Village_0025
+DEMO-KA-0026,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0026
+DEMO-KA-0027,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0027
+DEMO-KA-0028,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0028
+DEMO-KA-0029,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0029
+DEMO-KA-0030,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0030
+DEMO-KA-0031,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0031
+DEMO-KA-0032,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0032
+DEMO-KA-0033,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0033
+DEMO-KA-0034,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0034
+DEMO-KA-0035,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0035
+DEMO-KA-0036,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0036
+DEMO-KA-0037,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0037
+DEMO-KA-0038,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0038
+DEMO-KA-0039,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0039
+DEMO-KA-0040,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0040
+DEMO-KA-0041,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0041
+DEMO-KA-0042,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0042
+DEMO-KA-0043,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0043
+DEMO-KA-0044,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0044
+DEMO-KA-0045,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0045
+DEMO-KA-0046,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0046
+DEMO-KA-0047,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0047
+DEMO-KA-0048,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0048
+DEMO-KA-0049,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0049
+DEMO-KA-0050,DEMO-D-01,DEMO-T-01-02,Belagavi,Bailhongal,Village_0050
+DEMO-KA-0051,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0051
+DEMO-KA-0052,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0052
+DEMO-KA-0053,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0053
+DEMO-KA-0054,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0054
+DEMO-KA-0055,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0055
+DEMO-KA-0056,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0056
+DEMO-KA-0057,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0057
+DEMO-KA-0058,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0058
+DEMO-KA-0059,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0059
+DEMO-KA-0060,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0060
+DEMO-KA-0061,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0061
+DEMO-KA-0062,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0062
+DEMO-KA-0063,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0063
+DEMO-KA-0064,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0064
+DEMO-KA-0065,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0065
+DEMO-KA-0066,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0066
+DEMO-KA-0067,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0067
+DEMO-KA-0068,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0068
+DEMO-KA-0069,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0069
+DEMO-KA-0070,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0070
+DEMO-KA-0071,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0071
+DEMO-KA-0072,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0072
+DEMO-KA-0073,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0073
+DEMO-KA-0074,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0074
+DEMO-KA-0075,DEMO-D-01,DEMO-T-01-03,Belagavi,Athani,Village_0075
+DEMO-KA-0076,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0076
+DEMO-KA-0077,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0077
+DEMO-KA-0078,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0078
+DEMO-KA-0079,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0079
+DEMO-KA-0080,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0080
+DEMO-KA-0081,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0081
+DEMO-KA-0082,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0082
+DEMO-KA-0083,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0083
+DEMO-KA-0084,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0084
+DEMO-KA-0085,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0085
+DEMO-KA-0086,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0086
+DEMO-KA-0087,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0087
+DEMO-KA-0088,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0088
+DEMO-KA-0089,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0089
+DEMO-KA-0090,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0090
+DEMO-KA-0091,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0091
+DEMO-KA-0092,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0092
+DEMO-KA-0093,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0093
+DEMO-KA-0094,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0094
+DEMO-KA-0095,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0095
+DEMO-KA-0096,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0096
+DEMO-KA-0097,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0097
+DEMO-KA-0098,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0098
+DEMO-KA-0099,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0099
+DEMO-KA-0100,DEMO-D-02,DEMO-T-02-01,Dharwad,Kalghatgi,Village_0100
+DEMO-KA-0101,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0101
+DEMO-KA-0102,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0102
+DEMO-KA-0103,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0103
+DEMO-KA-0104,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0104
+DEMO-KA-0105,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0105
+DEMO-KA-0106,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0106
+DEMO-KA-0107,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0107
+DEMO-KA-0108,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0108
+DEMO-KA-0109,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0109
+DEMO-KA-0110,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0110
+DEMO-KA-0111,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0111
+DEMO-KA-0112,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0112
+DEMO-KA-0113,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0113
+DEMO-KA-0114,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0114
+DEMO-KA-0115,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0115
+DEMO-KA-0116,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0116
+DEMO-KA-0117,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0117
+DEMO-KA-0118,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0118
+DEMO-KA-0119,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0119
+DEMO-KA-0120,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0120
+DEMO-KA-0121,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0121
+DEMO-KA-0122,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0122
+DEMO-KA-0123,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0123
+DEMO-KA-0124,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0124
+DEMO-KA-0125,DEMO-D-02,DEMO-T-02-02,Dharwad,Dharwad,Village_0125
+DEMO-KA-0126,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0126
+DEMO-KA-0127,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0127
+DEMO-KA-0128,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0128
+DEMO-KA-0129,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0129
+DEMO-KA-0130,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0130
+DEMO-KA-0131,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0131
+DEMO-KA-0132,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0132
+DEMO-KA-0133,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0133
+DEMO-KA-0134,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0134
+DEMO-KA-0135,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0135
+DEMO-KA-0136,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0136
+DEMO-KA-0137,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0137
+DEMO-KA-0138,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0138
+DEMO-KA-0139,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0139
+DEMO-KA-0140,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0140
+DEMO-KA-0141,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0141
+DEMO-KA-0142,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0142
+DEMO-KA-0143,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0143
+DEMO-KA-0144,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0144
+DEMO-KA-0145,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0145
+DEMO-KA-0146,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0146
+DEMO-KA-0147,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0147
+DEMO-KA-0148,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0148
+DEMO-KA-0149,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0149
+DEMO-KA-0150,DEMO-D-02,DEMO-T-02-03,Dharwad,Navalgund,Village_0150
+DEMO-KA-0151,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0151
+DEMO-KA-0152,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0152
+DEMO-KA-0153,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0153
+DEMO-KA-0154,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0154
+DEMO-KA-0155,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0155
+DEMO-KA-0156,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0156
+DEMO-KA-0157,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0157
+DEMO-KA-0158,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0158
+DEMO-KA-0159,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0159
+DEMO-KA-0160,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0160
+DEMO-KA-0161,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0161
+DEMO-KA-0162,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0162
+DEMO-KA-0163,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0163
+DEMO-KA-0164,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0164
+DEMO-KA-0165,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0165
+DEMO-KA-0166,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0166
+DEMO-KA-0167,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0167
+DEMO-KA-0168,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0168
+DEMO-KA-0169,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0169
+DEMO-KA-0170,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0170
+DEMO-KA-0171,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0171
+DEMO-KA-0172,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0172
+DEMO-KA-0173,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0173
+DEMO-KA-0174,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0174
+DEMO-KA-0175,DEMO-D-03,DEMO-T-03-01,Vijayapura,Sindagi,Village_0175
+DEMO-KA-0176,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0176
+DEMO-KA-0177,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0177
+DEMO-KA-0178,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0178
+DEMO-KA-0179,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0179
+DEMO-KA-0180,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0180
+DEMO-KA-0181,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0181
+DEMO-KA-0182,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0182
+DEMO-KA-0183,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0183
+DEMO-KA-0184,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0184
+DEMO-KA-0185,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0185
+DEMO-KA-0186,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0186
+DEMO-KA-0187,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0187
+DEMO-KA-0188,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0188
+DEMO-KA-0189,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0189
+DEMO-KA-0190,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0190
+DEMO-KA-0191,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0191
+DEMO-KA-0192,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0192
+DEMO-KA-0193,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0193
+DEMO-KA-0194,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0194
+DEMO-KA-0195,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0195
+DEMO-KA-0196,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0196
+DEMO-KA-0197,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0197
+DEMO-KA-0198,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0198
+DEMO-KA-0199,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0199
+DEMO-KA-0200,DEMO-D-03,DEMO-T-03-02,Vijayapura,Indi,Village_0200
+DEMO-KA-0201,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0201
+DEMO-KA-0202,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0202
+DEMO-KA-0203,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0203
+DEMO-KA-0204,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0204
+DEMO-KA-0205,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0205
+DEMO-KA-0206,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0206
+DEMO-KA-0207,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0207
+DEMO-KA-0208,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0208
+DEMO-KA-0209,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0209
+DEMO-KA-0210,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0210
+DEMO-KA-0211,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0211
+DEMO-KA-0212,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0212
+DEMO-KA-0213,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0213
+DEMO-KA-0214,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0214
+DEMO-KA-0215,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0215
+DEMO-KA-0216,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0216
+DEMO-KA-0217,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0217
+DEMO-KA-0218,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0218
+DEMO-KA-0219,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0219
+DEMO-KA-0220,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0220
+DEMO-KA-0221,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0221
+DEMO-KA-0222,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0222
+DEMO-KA-0223,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0223
+DEMO-KA-0224,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0224
+DEMO-KA-0225,DEMO-D-03,DEMO-T-03-03,Vijayapura,Basavana Bagewadi,Village_0225
+DEMO-KA-0226,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0226
+DEMO-KA-0227,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0227
+DEMO-KA-0228,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0228
+DEMO-KA-0229,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0229
+DEMO-KA-0230,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0230
+DEMO-KA-0231,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0231
+DEMO-KA-0232,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0232
+DEMO-KA-0233,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0233
+DEMO-KA-0234,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0234
+DEMO-KA-0235,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0235
+DEMO-KA-0236,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0236
+DEMO-KA-0237,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0237
+DEMO-KA-0238,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0238
+DEMO-KA-0239,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0239
+DEMO-KA-0240,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0240
+DEMO-KA-0241,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0241
+DEMO-KA-0242,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0242
+DEMO-KA-0243,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0243
+DEMO-KA-0244,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0244
+DEMO-KA-0245,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0245
+DEMO-KA-0246,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0246
+DEMO-KA-0247,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0247
+DEMO-KA-0248,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0248
+DEMO-KA-0249,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0249
+DEMO-KA-0250,DEMO-D-04,DEMO-T-04-01,Bagalkot,Jamkhandi,Village_0250
+DEMO-KA-0251,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0251
+DEMO-KA-0252,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0252
+DEMO-KA-0253,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0253
+DEMO-KA-0254,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0254
+DEMO-KA-0255,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0255
+DEMO-KA-0256,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0256
+DEMO-KA-0257,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0257
+DEMO-KA-0258,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0258
+DEMO-KA-0259,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0259
+DEMO-KA-0260,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0260
+DEMO-KA-0261,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0261
+DEMO-KA-0262,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0262
+DEMO-KA-0263,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0263
+DEMO-KA-0264,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0264
+DEMO-KA-0265,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0265
+DEMO-KA-0266,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0266
+DEMO-KA-0267,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0267
+DEMO-KA-0268,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0268
+DEMO-KA-0269,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0269
+DEMO-KA-0270,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0270
+DEMO-KA-0271,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0271
+DEMO-KA-0272,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0272
+DEMO-KA-0273,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0273
+DEMO-KA-0274,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0274
+DEMO-KA-0275,DEMO-D-04,DEMO-T-04-02,Bagalkot,Mudhol,Village_0275
+DEMO-KA-0276,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0276
+DEMO-KA-0277,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0277
+DEMO-KA-0278,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0278
+DEMO-KA-0279,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0279
+DEMO-KA-0280,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0280
+DEMO-KA-0281,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0281
+DEMO-KA-0282,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0282
+DEMO-KA-0283,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0283
+DEMO-KA-0284,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0284
+DEMO-KA-0285,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0285
+DEMO-KA-0286,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0286
+DEMO-KA-0287,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0287
+DEMO-KA-0288,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0288
+DEMO-KA-0289,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0289
+DEMO-KA-0290,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0290
+DEMO-KA-0291,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0291
+DEMO-KA-0292,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0292
+DEMO-KA-0293,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0293
+DEMO-KA-0294,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0294
+DEMO-KA-0295,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0295
+DEMO-KA-0296,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0296
+DEMO-KA-0297,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0297
+DEMO-KA-0298,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0298
+DEMO-KA-0299,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0299
+DEMO-KA-0300,DEMO-D-04,DEMO-T-04-03,Bagalkot,Badami,Village_0300
+DEMO-KA-0301,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0301
+DEMO-KA-0302,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0302
+DEMO-KA-0303,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0303
+DEMO-KA-0304,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0304
+DEMO-KA-0305,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0305
+DEMO-KA-0306,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0306
+DEMO-KA-0307,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0307
+DEMO-KA-0308,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0308
+DEMO-KA-0309,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0309
+DEMO-KA-0310,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0310
+DEMO-KA-0311,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0311
+DEMO-KA-0312,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0312
+DEMO-KA-0313,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0313
+DEMO-KA-0314,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0314
+DEMO-KA-0315,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0315
+DEMO-KA-0316,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0316
+DEMO-KA-0317,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0317
+DEMO-KA-0318,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0318
+DEMO-KA-0319,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0319
+DEMO-KA-0320,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0320
+DEMO-KA-0321,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0321
+DEMO-KA-0322,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0322
+DEMO-KA-0323,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0323
+DEMO-KA-0324,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0324
+DEMO-KA-0325,DEMO-D-05,DEMO-T-05-01,Uttara Kannada,Sirsi,Village_0325
+DEMO-KA-0326,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0326
+DEMO-KA-0327,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0327
+DEMO-KA-0328,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0328
+DEMO-KA-0329,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0329
+DEMO-KA-0330,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0330
+DEMO-KA-0331,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0331
+DEMO-KA-0332,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0332
+DEMO-KA-0333,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0333
+DEMO-KA-0334,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0334
+DEMO-KA-0335,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0335
+DEMO-KA-0336,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0336
+DEMO-KA-0337,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0337
+DEMO-KA-0338,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0338
+DEMO-KA-0339,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0339
+DEMO-KA-0340,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0340
+DEMO-KA-0341,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0341
+DEMO-KA-0342,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0342
+DEMO-KA-0343,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0343
+DEMO-KA-0344,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0344
+DEMO-KA-0345,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0345
+DEMO-KA-0346,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0346
+DEMO-KA-0347,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0347
+DEMO-KA-0348,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0348
+DEMO-KA-0349,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0349
+DEMO-KA-0350,DEMO-D-05,DEMO-T-05-02,Uttara Kannada,Yellapur,Village_0350
+DEMO-KA-0351,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0351
+DEMO-KA-0352,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0352
+DEMO-KA-0353,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0353
+DEMO-KA-0354,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0354
+DEMO-KA-0355,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0355
+DEMO-KA-0356,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0356
+DEMO-KA-0357,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0357
+DEMO-KA-0358,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0358
+DEMO-KA-0359,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0359
+DEMO-KA-0360,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0360
+DEMO-KA-0361,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0361
+DEMO-KA-0362,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0362
+DEMO-KA-0363,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0363
+DEMO-KA-0364,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0364
+DEMO-KA-0365,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0365
+DEMO-KA-0366,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0366
+DEMO-KA-0367,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0367
+DEMO-KA-0368,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0368
+DEMO-KA-0369,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0369
+DEMO-KA-0370,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0370
+DEMO-KA-0371,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0371
+DEMO-KA-0372,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0372
+DEMO-KA-0373,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0373
+DEMO-KA-0374,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0374
+DEMO-KA-0375,DEMO-D-05,DEMO-T-05-03,Uttara Kannada,Kumta,Village_0375
+DEMO-KA-0376,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0376
+DEMO-KA-0377,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0377
+DEMO-KA-0378,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0378
+DEMO-KA-0379,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0379
+DEMO-KA-0380,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0380
+DEMO-KA-0381,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0381
+DEMO-KA-0382,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0382
+DEMO-KA-0383,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0383
+DEMO-KA-0384,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0384
+DEMO-KA-0385,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0385
+DEMO-KA-0386,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0386
+DEMO-KA-0387,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0387
+DEMO-KA-0388,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0388
+DEMO-KA-0389,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0389
+DEMO-KA-0390,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0390
+DEMO-KA-0391,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0391
+DEMO-KA-0392,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0392
+DEMO-KA-0393,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0393
+DEMO-KA-0394,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0394
+DEMO-KA-0395,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0395
+DEMO-KA-0396,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0396
+DEMO-KA-0397,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0397
+DEMO-KA-0398,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0398
+DEMO-KA-0399,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0399
+DEMO-KA-0400,DEMO-D-06,DEMO-T-06-01,Shivamogga,Sagar,Village_0400
+DEMO-KA-0401,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0401
+DEMO-KA-0402,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0402
+DEMO-KA-0403,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0403
+DEMO-KA-0404,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0404
+DEMO-KA-0405,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0405
+DEMO-KA-0406,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0406
+DEMO-KA-0407,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0407
+DEMO-KA-0408,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0408
+DEMO-KA-0409,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0409
+DEMO-KA-0410,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0410
+DEMO-KA-0411,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0411
+DEMO-KA-0412,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0412
+DEMO-KA-0413,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0413
+DEMO-KA-0414,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0414
+DEMO-KA-0415,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0415
+DEMO-KA-0416,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0416
+DEMO-KA-0417,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0417
+DEMO-KA-0418,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0418
+DEMO-KA-0419,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0419
+DEMO-KA-0420,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0420
+DEMO-KA-0421,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0421
+DEMO-KA-0422,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0422
+DEMO-KA-0423,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0423
+DEMO-KA-0424,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0424
+DEMO-KA-0425,DEMO-D-06,DEMO-T-06-02,Shivamogga,Shikaripura,Village_0425
+DEMO-KA-0426,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0426
+DEMO-KA-0427,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0427
+DEMO-KA-0428,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0428
+DEMO-KA-0429,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0429
+DEMO-KA-0430,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0430
+DEMO-KA-0431,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0431
+DEMO-KA-0432,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0432
+DEMO-KA-0433,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0433
+DEMO-KA-0434,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0434
+DEMO-KA-0435,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0435
+DEMO-KA-0436,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0436
+DEMO-KA-0437,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0437
+DEMO-KA-0438,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0438
+DEMO-KA-0439,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0439
+DEMO-KA-0440,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0440
+DEMO-KA-0441,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0441
+DEMO-KA-0442,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0442
+DEMO-KA-0443,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0443
+DEMO-KA-0444,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0444
+DEMO-KA-0445,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0445
+DEMO-KA-0446,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0446
+DEMO-KA-0447,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0447
+DEMO-KA-0448,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0448
+DEMO-KA-0449,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0449
+DEMO-KA-0450,DEMO-D-06,DEMO-T-06-03,Shivamogga,Bhadravati,Village_0450
+DEMO-KA-0451,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0451
+DEMO-KA-0452,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0452
+DEMO-KA-0453,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0453
+DEMO-KA-0454,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0454
+DEMO-KA-0455,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0455
+DEMO-KA-0456,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0456
+DEMO-KA-0457,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0457
+DEMO-KA-0458,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0458
+DEMO-KA-0459,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0459
+DEMO-KA-0460,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0460
+DEMO-KA-0461,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0461
+DEMO-KA-0462,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0462
+DEMO-KA-0463,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0463
+DEMO-KA-0464,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0464
+DEMO-KA-0465,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0465
+DEMO-KA-0466,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0466
+DEMO-KA-0467,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0467
+DEMO-KA-0468,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0468
+DEMO-KA-0469,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0469
+DEMO-KA-0470,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0470
+DEMO-KA-0471,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0471
+DEMO-KA-0472,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0472
+DEMO-KA-0473,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0473
+DEMO-KA-0474,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0474
+DEMO-KA-0475,DEMO-D-07,DEMO-T-07-01,Chikkamagaluru,Kadur,Village_0475
+DEMO-KA-0476,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0476
+DEMO-KA-0477,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0477
+DEMO-KA-0478,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0478
+DEMO-KA-0479,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0479
+DEMO-KA-0480,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0480
+DEMO-KA-0481,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0481
+DEMO-KA-0482,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0482
+DEMO-KA-0483,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0483
+DEMO-KA-0484,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0484
+DEMO-KA-0485,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0485
+DEMO-KA-0486,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0486
+DEMO-KA-0487,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0487
+DEMO-KA-0488,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0488
+DEMO-KA-0489,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0489
+DEMO-KA-0490,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0490
+DEMO-KA-0491,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0491
+DEMO-KA-0492,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0492
+DEMO-KA-0493,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0493
+DEMO-KA-0494,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0494
+DEMO-KA-0495,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0495
+DEMO-KA-0496,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0496
+DEMO-KA-0497,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0497
+DEMO-KA-0498,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0498
+DEMO-KA-0499,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0499
+DEMO-KA-0500,DEMO-D-07,DEMO-T-07-02,Chikkamagaluru,Koppa,Village_0500
+DEMO-KA-0501,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0501
+DEMO-KA-0502,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0502
+DEMO-KA-0503,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0503
+DEMO-KA-0504,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0504
+DEMO-KA-0505,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0505
+DEMO-KA-0506,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0506
+DEMO-KA-0507,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0507
+DEMO-KA-0508,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0508
+DEMO-KA-0509,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0509
+DEMO-KA-0510,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0510
+DEMO-KA-0511,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0511
+DEMO-KA-0512,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0512
+DEMO-KA-0513,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0513
+DEMO-KA-0514,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0514
+DEMO-KA-0515,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0515
+DEMO-KA-0516,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0516
+DEMO-KA-0517,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0517
+DEMO-KA-0518,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0518
+DEMO-KA-0519,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0519
+DEMO-KA-0520,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0520
+DEMO-KA-0521,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0521
+DEMO-KA-0522,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0522
+DEMO-KA-0523,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0523
+DEMO-KA-0524,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0524
+DEMO-KA-0525,DEMO-D-07,DEMO-T-07-03,Chikkamagaluru,Mudigere,Village_0525
+DEMO-KA-0526,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0526
+DEMO-KA-0527,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0527
+DEMO-KA-0528,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0528
+DEMO-KA-0529,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0529
+DEMO-KA-0530,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0530
+DEMO-KA-0531,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0531
+DEMO-KA-0532,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0532
+DEMO-KA-0533,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0533
+DEMO-KA-0534,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0534
+DEMO-KA-0535,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0535
+DEMO-KA-0536,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0536
+DEMO-KA-0537,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0537
+DEMO-KA-0538,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0538
+DEMO-KA-0539,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0539
+DEMO-KA-0540,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0540
+DEMO-KA-0541,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0541
+DEMO-KA-0542,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0542
+DEMO-KA-0543,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0543
+DEMO-KA-0544,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0544
+DEMO-KA-0545,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0545
+DEMO-KA-0546,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0546
+DEMO-KA-0547,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0547
+DEMO-KA-0548,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0548
+DEMO-KA-0549,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0549
+DEMO-KA-0550,DEMO-D-08,DEMO-T-08-01,Hassan,Belur,Village_0550
+DEMO-KA-0551,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0551
+DEMO-KA-0552,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0552
+DEMO-KA-0553,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0553
+DEMO-KA-0554,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0554
+DEMO-KA-0555,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0555
+DEMO-KA-0556,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0556
+DEMO-KA-0557,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0557
+DEMO-KA-0558,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0558
+DEMO-KA-0559,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0559
+DEMO-KA-0560,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0560
+DEMO-KA-0561,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0561
+DEMO-KA-0562,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0562
+DEMO-KA-0563,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0563
+DEMO-KA-0564,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0564
+DEMO-KA-0565,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0565
+DEMO-KA-0566,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0566
+DEMO-KA-0567,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0567
+DEMO-KA-0568,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0568
+DEMO-KA-0569,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0569
+DEMO-KA-0570,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0570
+DEMO-KA-0571,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0571
+DEMO-KA-0572,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0572
+DEMO-KA-0573,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0573
+DEMO-KA-0574,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0574
+DEMO-KA-0575,DEMO-D-08,DEMO-T-08-02,Hassan,Sakleshpur,Village_0575
+DEMO-KA-0576,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0576
+DEMO-KA-0577,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0577
+DEMO-KA-0578,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0578
+DEMO-KA-0579,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0579
+DEMO-KA-0580,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0580
+DEMO-KA-0581,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0581
+DEMO-KA-0582,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0582
+DEMO-KA-0583,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0583
+DEMO-KA-0584,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0584
+DEMO-KA-0585,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0585
+DEMO-KA-0586,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0586
+DEMO-KA-0587,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0587
+DEMO-KA-0588,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0588
+DEMO-KA-0589,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0589
+DEMO-KA-0590,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0590
+DEMO-KA-0591,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0591
+DEMO-KA-0592,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0592
+DEMO-KA-0593,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0593
+DEMO-KA-0594,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0594
+DEMO-KA-0595,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0595
+DEMO-KA-0596,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0596
+DEMO-KA-0597,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0597
+DEMO-KA-0598,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0598
+DEMO-KA-0599,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0599
+DEMO-KA-0600,DEMO-D-08,DEMO-T-08-03,Hassan,Arakalagudu,Village_0600
+DEMO-KA-0601,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0601
+DEMO-KA-0602,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0602
+DEMO-KA-0603,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0603
+DEMO-KA-0604,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0604
+DEMO-KA-0605,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0605
+DEMO-KA-0606,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0606
+DEMO-KA-0607,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0607
+DEMO-KA-0608,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0608
+DEMO-KA-0609,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0609
+DEMO-KA-0610,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0610
+DEMO-KA-0611,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0611
+DEMO-KA-0612,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0612
+DEMO-KA-0613,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0613
+DEMO-KA-0614,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0614
+DEMO-KA-0615,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0615
+DEMO-KA-0616,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0616
+DEMO-KA-0617,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0617
+DEMO-KA-0618,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0618
+DEMO-KA-0619,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0619
+DEMO-KA-0620,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0620
+DEMO-KA-0621,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0621
+DEMO-KA-0622,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0622
+DEMO-KA-0623,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0623
+DEMO-KA-0624,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0624
+DEMO-KA-0625,DEMO-D-09,DEMO-T-09-01,Mysuru,Hunsur,Village_0625
+DEMO-KA-0626,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0626
+DEMO-KA-0627,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0627
+DEMO-KA-0628,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0628
+DEMO-KA-0629,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0629
+DEMO-KA-0630,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0630
+DEMO-KA-0631,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0631
+DEMO-KA-0632,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0632
+DEMO-KA-0633,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0633
+DEMO-KA-0634,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0634
+DEMO-KA-0635,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0635
+DEMO-KA-0636,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0636
+DEMO-KA-0637,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0637
+DEMO-KA-0638,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0638
+DEMO-KA-0639,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0639
+DEMO-KA-0640,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0640
+DEMO-KA-0641,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0641
+DEMO-KA-0642,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0642
+DEMO-KA-0643,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0643
+DEMO-KA-0644,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0644
+DEMO-KA-0645,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0645
+DEMO-KA-0646,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0646
+DEMO-KA-0647,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0647
+DEMO-KA-0648,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0648
+DEMO-KA-0649,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0649
+DEMO-KA-0650,DEMO-D-09,DEMO-T-09-02,Mysuru,Nanjangud,Village_0650
+DEMO-KA-0651,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0651
+DEMO-KA-0652,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0652
+DEMO-KA-0653,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0653
+DEMO-KA-0654,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0654
+DEMO-KA-0655,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0655
+DEMO-KA-0656,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0656
+DEMO-KA-0657,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0657
+DEMO-KA-0658,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0658
+DEMO-KA-0659,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0659
+DEMO-KA-0660,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0660
+DEMO-KA-0661,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0661
+DEMO-KA-0662,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0662
+DEMO-KA-0663,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0663
+DEMO-KA-0664,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0664
+DEMO-KA-0665,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0665
+DEMO-KA-0666,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0666
+DEMO-KA-0667,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0667
+DEMO-KA-0668,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0668
+DEMO-KA-0669,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0669
+DEMO-KA-0670,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0670
+DEMO-KA-0671,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0671
+DEMO-KA-0672,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0672
+DEMO-KA-0673,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0673
+DEMO-KA-0674,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0674
+DEMO-KA-0675,DEMO-D-09,DEMO-T-09-03,Mysuru,H.D. Kote,Village_0675
+DEMO-KA-0676,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0676
+DEMO-KA-0677,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0677
+DEMO-KA-0678,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0678
+DEMO-KA-0679,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0679
+DEMO-KA-0680,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0680
+DEMO-KA-0681,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0681
+DEMO-KA-0682,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0682
+DEMO-KA-0683,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0683
+DEMO-KA-0684,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0684
+DEMO-KA-0685,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0685
+DEMO-KA-0686,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0686
+DEMO-KA-0687,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0687
+DEMO-KA-0688,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0688
+DEMO-KA-0689,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0689
+DEMO-KA-0690,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0690
+DEMO-KA-0691,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0691
+DEMO-KA-0692,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0692
+DEMO-KA-0693,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0693
+DEMO-KA-0694,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0694
+DEMO-KA-0695,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0695
+DEMO-KA-0696,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0696
+DEMO-KA-0697,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0697
+DEMO-KA-0698,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0698
+DEMO-KA-0699,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0699
+DEMO-KA-0700,DEMO-D-10,DEMO-T-10-01,Mandya,Malavalli,Village_0700
+DEMO-KA-0701,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0701
+DEMO-KA-0702,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0702
+DEMO-KA-0703,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0703
+DEMO-KA-0704,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0704
+DEMO-KA-0705,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0705
+DEMO-KA-0706,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0706
+DEMO-KA-0707,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0707
+DEMO-KA-0708,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0708
+DEMO-KA-0709,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0709
+DEMO-KA-0710,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0710
+DEMO-KA-0711,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0711
+DEMO-KA-0712,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0712
+DEMO-KA-0713,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0713
+DEMO-KA-0714,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0714
+DEMO-KA-0715,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0715
+DEMO-KA-0716,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0716
+DEMO-KA-0717,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0717
+DEMO-KA-0718,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0718
+DEMO-KA-0719,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0719
+DEMO-KA-0720,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0720
+DEMO-KA-0721,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0721
+DEMO-KA-0722,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0722
+DEMO-KA-0723,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0723
+DEMO-KA-0724,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0724
+DEMO-KA-0725,DEMO-D-10,DEMO-T-10-02,Mandya,Pandavapura,Village_0725
+DEMO-KA-0726,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0726
+DEMO-KA-0727,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0727
+DEMO-KA-0728,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0728
+DEMO-KA-0729,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0729
+DEMO-KA-0730,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0730
+DEMO-KA-0731,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0731
+DEMO-KA-0732,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0732
+DEMO-KA-0733,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0733
+DEMO-KA-0734,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0734
+DEMO-KA-0735,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0735
+DEMO-KA-0736,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0736
+DEMO-KA-0737,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0737
+DEMO-KA-0738,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0738
+DEMO-KA-0739,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0739
+DEMO-KA-0740,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0740
+DEMO-KA-0741,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0741
+DEMO-KA-0742,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0742
+DEMO-KA-0743,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0743
+DEMO-KA-0744,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0744
+DEMO-KA-0745,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0745
+DEMO-KA-0746,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0746
+DEMO-KA-0747,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0747
+DEMO-KA-0748,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0748
+DEMO-KA-0749,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0749
+DEMO-KA-0750,DEMO-D-10,DEMO-T-10-03,Mandya,Maddur,Village_0750
