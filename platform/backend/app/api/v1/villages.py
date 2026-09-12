@@ -1,6 +1,6 @@
 from typing import Optional
 from fastapi import APIRouter, Depends, Query
-from sqlalchemy import select
+from sqlalchemy import select, func
 from sqlalchemy.orm import Session
 
 from app.db.session import get_db
@@ -29,7 +29,7 @@ def list_villages(
     # Priority sorting by risk_score descending
     query = query.order_by(Village.risk_score.desc())
 
-    total = db.scalar(select(Village).count()) or 0
+    total = db.scalar(select(func.count()).select_from(Village)) or 0
     items = db.scalars(query.offset((page - 1) * page_size).limit(page_size)).all()
 
     return {
