@@ -201,53 +201,55 @@ docker compose logs -f
 
 ## 🛠 Technology Stack Architecture
 
+### Technology Stack Flowchart
+
 ```mermaid
 flowchart TD
-    subgraph UI ["🎨 Frontend Layer (Client)"]
-        N1[Next.js 15 App Router]
-        N2[React 19 & Tailwind CSS v4]
-        N3[MapLibre GL GIS Visualizer]
-        N4[Recharts Analytics & Lucide Icons]
-        N5[TanStack React Query API Client]
+    subgraph UI ["🎨 1. Frontend Layer (Client Side)"]
+        N1["Next.js 15 App Router"]
+        N2["React 19 & Tailwind CSS v4"]
+        N3["MapLibre GL Geospatial Map"]
+        N4["Recharts Analytics & Lucide Icons"]
+        N5["TanStack React Query API Client"]
         N1 --- N2 --- N3 --- N4 --- N5
     end
 
-    subgraph API ["⚡ API Gateway & Security Layer"]
-        A1[FastAPI ASGI Router /api/v1]
-        A2[PyJWT OAuth2 Bearer Authentication]
-        A3[RBAC Scoping Middleware]
-        A4[Pydantic v2 Schema Validation]
+    subgraph API ["⚡ 2. API Gateway & Security Layer"]
+        A1["FastAPI ASGI Router (/api/v1)"]
+        A2["PyJWT OAuth2 Bearer Auth"]
+        A3["RBAC District Scoping Middleware"]
+        A4["Pydantic v2 Input/Output Validation"]
         A1 --- A2 --- A3 --- A4
     end
 
-    subgraph CORE ["🧮 Business & Analytics Engine"]
-        C1[7-Dimension Composite Risk Scorer]
-        C2[Explainable AI XAI Factor Extractor]
-        C3[Audit Logging & Provenance Tracker]
+    subgraph CORE ["🧮 3. Business & Scoring Engine"]
+        C1["7-Dimension Composite Risk Scorer"]
+        C2["Explainable AI (XAI) Factor Extractor"]
+        C3["Audit Logging & Provenance Tracker"]
         C1 --- C2 --- C3
     end
 
-    subgraph AI ["🤖 4-Tier AI Copilot Cascade"]
-        L1["IBM watsonx.ai (ibm/granite-3-8b-instruct)"]
-        L2["Groq Cloud API (groq/compound)"]
-        L3["xAI Grok API (grok-beta)"]
-        L4["Zero-Failure Deterministic Engine"]
+    subgraph AI ["🤖 4. Multi-Tier AI Cascade"]
+        L1["Tier 1: IBM watsonx.ai (ibm/granite-3-8b-instruct)"]
+        L2["Tier 2: Groq Cloud API (groq/compound)"]
+        L3["Tier 3: xAI Grok API (grok-beta)"]
+        L4["Tier 4: Zero-Failure Deterministic Engine"]
         L1 -->|Fallback| L2
         L2 -->|Fallback| L3
         L3 -->|Fallback| L4
     end
 
-    subgraph DATA ["💾 Data Foundation & ORM Layer"]
-        D1[(SQLite krhi.db / PostgreSQL)]
-        D2[SQLAlchemy 2.0 ORM]
-        D3[11-Layer LGD 2026 Health Datasets]
+    subgraph DATA ["💾 5. Data Foundation & Storage"]
+        D1[("SQLite (krhi.db) / PostgreSQL")]
+        D2["SQLAlchemy 2.0 ORM"]
+        D3["11-Layer LGD 2026 Village Datasets"]
         D1 --- D2 --- D3
     end
 
-    subgraph INFRA ["🚀 Infrastructure & Deployment"]
-        I1[Docker & Docker Compose]
-        I2[Render Blueprint render.yaml]
-        I3[Uvicorn Production Server]
+    subgraph INFRA ["🚀 6. Containerization & Cloud Deployment"]
+        I1["Docker & Docker Compose"]
+        I2["Render Blueprint (render.yaml)"]
+        I3["Uvicorn ASGI Server"]
         I1 --- I2 --- I3
     end
 
@@ -260,6 +262,20 @@ flowchart TD
 
 ---
 
+### Tech Stack Component Summary
+
+| Layer | Technologies & Frameworks | Function |
+| :--- | :--- | :--- |
+| **Frontend** | Next.js 15, React 19, Tailwind CSS v4, MapLibre GL, Recharts | Interactive DHO/MMU dashboards, geospatial village maps, XAI factor modals |
+| **API Gateway** | Python 3.11, FastAPI, Pydantic v2, PyJWT | REST API endpoints, JWT authentication, RBAC role scoping |
+| **Scoring Engine** | Python, NumPy, Pandas, Scikit-learn | 7-dimension composite risk scoring (0–100) & risk driver extraction |
+| **AI Copilot** | IBM watsonx.ai, Groq Cloud API, xAI Grok, Rule Engine | 4-tier LLM fallback cascade for 100% reliable executive briefing generation |
+| **Data & ORM** | SQLite (`krhi.db`), PostgreSQL, SQLAlchemy 2.0 | 30,771 villages linked via 6-digit LGD 2026 codes across 11 health domains |
+| **DevOps & Cloud** | Docker, Docker Compose, Render Blueprint (`render.yaml`) | Multi-container orchestration & 1-click cloud deployment |
+
+---
+
 ## 📜 License & Compliance
 
 Developed for Government of Karnataka Health & Family Welfare Department hackathons and public health decision support. Utilizes official LGD 2026 geographical codes.
+
