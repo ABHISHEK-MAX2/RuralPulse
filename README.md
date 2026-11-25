@@ -46,7 +46,7 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-    subgraph Data Layer [11-Layer Health Domain Datasets]
+    subgraph DataLayer [11-Layer Health Domain Datasets]
         D1[Demographics & LGD]
         D2[PHC Transit & Infra]
         D3[Maternal & Child Health]
@@ -78,7 +78,7 @@ flowchart TD
         UI4[System User Administration]
     end
 
-    Data Layer --> SCORE
+    DataLayer --> SCORE
     SCORE --> DB
     API --> RBAC
     API --> AICascade
